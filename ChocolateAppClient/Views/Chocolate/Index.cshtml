@@ -1,0 +1,18 @@
+@model IEnumerable<ChocolateViewModel>
+
+
+<h2>Chocolates</h2>
+
+
+<ul>
+    @foreach (var chocolate in Model)
+    {
+        <li>
+            @Html.ActionLink(chocolate.Name, "Details", new { id = chocolate.Id })
+        </li>
+    }
+  
+
+
+</ul>
+

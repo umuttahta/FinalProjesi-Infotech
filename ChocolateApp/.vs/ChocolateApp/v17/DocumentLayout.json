@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bprojesi\\BP\\ChocolateApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47964379-498B-4D4A-91C8-63C0339E2A86}|ChocolateApp.Api\\ChocolateApp.Api.csproj|c:\\users\\umutt\\onedrive\\masa\u00FCst\u00FC\\bprojesi\\bp\\chocolateapp\\chocolateapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47964379-498B-4D4A-91C8-63C0339E2A86}|ChocolateApp.Api\\ChocolateApp.Api.csproj|solutionrelative:chocolateapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47964379-498B-4D4A-91C8-63C0339E2A86}|ChocolateApp.Api\\ChocolateApp.Api.csproj|c:\\users\\umutt\\onedrive\\masa\u00FCst\u00FC\\bprojesi\\bp\\chocolateapp\\chocolateapp.api\\areas\\identity\\data\\chocolateappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47964379-498B-4D4A-91C8-63C0339E2A86}|ChocolateApp.Api\\ChocolateApp.Api.csproj|solutionrelative:chocolateapp.api\\areas\\identity\\data\\chocolateappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47964379-498B-4D4A-91C8-63C0339E2A86}|ChocolateApp.Api\\ChocolateApp.Api.csproj|c:\\users\\umutt\\onedrive\\masa\u00FCst\u00FC\\bprojesi\\bp\\chocolateapp\\chocolateapp.api\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47964379-498B-4D4A-91C8-63C0339E2A86}|ChocolateApp.Api\\ChocolateApp.Api.csproj|solutionrelative:chocolateapp.api\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bprojesi\\BP\\ChocolateApp\\ChocolateApp.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ChocolateApp.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bprojesi\\BP\\ChocolateApp\\ChocolateApp.Api\\Program.cs",
+              "RelativeToolTip": "ChocolateApp.Api\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswBkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:42:29.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChocolateAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bprojesi\\BP\\ChocolateApp\\ChocolateApp.Api\\Areas\\Identity\\Data\\ChocolateAppDbContext.cs",
+              "RelativeDocumentMoniker": "ChocolateApp.Api\\Areas\\Identity\\Data\\ChocolateAppDbContext.cs",
+              "ToolTip": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bprojesi\\BP\\ChocolateApp\\ChocolateApp.Api\\Areas\\Identity\\Data\\ChocolateAppDbContext.cs",
+              "RelativeToolTip": "ChocolateApp.Api\\Areas\\Identity\\Data\\ChocolateAppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:41:24.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bprojesi\\BP\\ChocolateApp\\ChocolateApp.Api\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "ChocolateApp.Api\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bprojesi\\BP\\ChocolateApp\\ChocolateApp.Api\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "ChocolateApp.Api\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T23:36:40.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+﻿@model List<ChocolateViewModel>
+
+<!-- /*
+* Bootstrap 5
+* Template Name: Furni
+* Template Author: Untree.co
+* Template URI: https://untree.co/
+* License: https://creativecommons.org/licenses/by/3.0/
+*/ -->
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="author" content="Untree.co">
+  <link rel="shortcut icon" href="favicon.png">
+
+  <meta name="description" content="" />
+  <meta name="keywords" content="bootstrap, bootstrap4" />
+
+		<!-- Bootstrap CSS -->
+		<link href="~/ui/css/bootstrap.min.css" rel="stylesheet">
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+		<link href="~/ui/css/tiny-slider.css" rel="stylesheet">
+		<link href="ui/css/style.css" rel="stylesheet">
+		<title>ChocolateApp</title>
+
+	</head>
+		
+
+	<body>
+
+	
+
+		<!-- Start Hero Section -->
+	@await Html.PartialAsync("_HeroPartial")
+		<!-- End Hero Section -->
+		
+		<!-- Start Product Section -->
+		@await Html.PartialAsync("_ProductPartial", Model)
+
+		<!-- End Product Section -->
+
+		<!-- Start Why Choose Us Section -->
+		@await Html.PartialAsync("_WhyChooseUsPartial")
+		<!-- End Why Choose Us Section -->
+
+		<!-- Start We Help Section -->
+		@await Html.PartialAsync("_WeHelpPartial")
+		<!-- End We Help Section -->
+
+		<!-- Start Popular Product -->
+		@await Html.PartialAsync("_PopularProductPartial")
+		<!-- End Popular Product -->
+
+		<!-- Start Testimonial Slider -->
+	@await Html.PartialAsync("_TestimonialPartial")
+		<!-- End Testimonial Slider -->
+
+		<!-- Start Blog Section -->
+		@await Html.PartialAsync("_BlogPartial")
+		<!-- End Blog Section -->
+
+
+
+
+		<script src="~/ui/js/bootstrap.bundle.min.js"></script>
+	<script src="~/ui/js/tiny-slider.js"></script>
+		<script src="~/ui/js/custom.js"></script>
+
+
+
+	
+	
+	</body>
+
+</html>

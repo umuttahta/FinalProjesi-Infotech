@@ -1,0 +1,115 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ChocolateAppClient
+build_property.RootNamespace = ChocolateAppClient
+build_property.ProjectDir = C:\Users\umutt\OneDrive\Masaüstü\Bprojesi\BP\FinalProject\ChocolateAppClient\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\umutt\OneDrive\Masaüstü\Bprojesi\BP\FinalProject\ChocolateAppClient
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/umutt/OneDrive/Masaüstü/Bprojesi/BP/FinalProject/ChocolateAppClient/Views/About/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcaW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umutt/OneDrive/Masaüstü/Bprojesi/BP/FinalProject/ChocolateAppClient/Views/Blog/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umutt/OneDrive/Masaüstü/Bprojesi/BP/FinalProject/ChocolateAppClient/Views/Chocolate/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hvY29sYXRlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umutt/OneDrive/Masaüstü/Bprojesi/BP/FinalProject/ChocolateAppClient/Views/Contact/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umutt/OneDrive/Masaüstü/Bprojesi/BP/FinalProject/ChocolateAppClient/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umutt/OneDrive/Masaüstü/Bprojesi/BP/FinalProject/ChocolateAppClient/Views/Services/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcaW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umutt/OneDrive/Masaüstü/Bprojesi/BP/FinalProject/ChocolateAppClient/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umutt/OneDrive/Masaüstü/Bprojesi/BP/FinalProject/ChocolateAppClient/Views/Shared/_BlogPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CbG9nUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umutt/OneDrive/Masaüstü/Bprojesi/BP/FinalProject/ChocolateAppClient/Views/Shared/_FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umutt/OneDrive/Masaüstü/Bprojesi/BP/FinalProject/ChocolateAppClient/Views/Shared/_HeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umutt/OneDrive/Masaüstü/Bprojesi/BP/FinalProject/ChocolateAppClient/Views/Shared/_HeroPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZXJvUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umutt/OneDrive/Masaüstü/Bprojesi/BP/FinalProject/ChocolateAppClient/Views/Shared/_PopularProductPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qb3B1bGFyUHJvZHVjdFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umutt/OneDrive/Masaüstü/Bprojesi/BP/FinalProject/ChocolateAppClient/Views/Shared/_PreLoaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QcmVMb2FkZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umutt/OneDrive/Masaüstü/Bprojesi/BP/FinalProject/ChocolateAppClient/Views/Shared/_ProductPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9kdWN0UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umutt/OneDrive/Masaüstü/Bprojesi/BP/FinalProject/ChocolateAppClient/Views/Shared/_TestimonialPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UZXN0aW1vbmlhbFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umutt/OneDrive/Masaüstü/Bprojesi/BP/FinalProject/ChocolateAppClient/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umutt/OneDrive/Masaüstü/Bprojesi/BP/FinalProject/ChocolateAppClient/Views/Shared/_WeHelpPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9XZUhlbHBQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umutt/OneDrive/Masaüstü/Bprojesi/BP/FinalProject/ChocolateAppClient/Views/Shared/_WhyChooseUsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9XaHlDaG9vc2VVc1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umutt/OneDrive/Masaüstü/Bprojesi/BP/FinalProject/ChocolateAppClient/Views/Shop/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umutt/OneDrive/Masaüstü/Bprojesi/BP/FinalProject/ChocolateAppClient/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umutt/OneDrive/Masaüstü/Bprojesi/BP/FinalProject/ChocolateAppClient/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umutt/OneDrive/Masaüstü/Bprojesi/BP/FinalProject/ChocolateAppClient/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-x8svuiml7l

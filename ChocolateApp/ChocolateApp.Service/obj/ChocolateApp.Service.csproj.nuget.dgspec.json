@@ -1,0 +1,292 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateApp\\ChocolateApp.Service\\ChocolateApp.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateApp\\ChocolateApp.Data\\ChocolateApp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateApp\\ChocolateApp.Data\\ChocolateApp.Data.csproj",
+        "projectName": "ChocolateApp.Data",
+        "projectPath": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateApp\\ChocolateApp.Data\\ChocolateApp.Data.csproj",
+        "packagesPath": "C:\\Users\\umutt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateApp\\ChocolateApp.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\umutt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateApp\\ChocolateApp.Entity\\ChocolateApp.Entity.csproj": {
+                "projectPath": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateApp\\ChocolateApp.Entity\\ChocolateApp.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateApp\\ChocolateApp.Entity\\ChocolateApp.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateApp\\ChocolateApp.Entity\\ChocolateApp.Entity.csproj",
+        "projectName": "ChocolateApp.Entity",
+        "projectPath": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateApp\\ChocolateApp.Entity\\ChocolateApp.Entity.csproj",
+        "packagesPath": "C:\\Users\\umutt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateApp\\ChocolateApp.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\umutt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateApp\\ChocolateApp.Service\\ChocolateApp.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateApp\\ChocolateApp.Service\\ChocolateApp.Service.csproj",
+        "projectName": "ChocolateApp.Service",
+        "projectPath": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateApp\\ChocolateApp.Service\\ChocolateApp.Service.csproj",
+        "packagesPath": "C:\\Users\\umutt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateApp\\ChocolateApp.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\umutt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateApp\\ChocolateApp.Data\\ChocolateApp.Data.csproj": {
+                "projectPath": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateApp\\ChocolateApp.Data\\ChocolateApp.Data.csproj"
+              },
+              "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateApp\\ChocolateApp.Shared\\ChocolateApp.Shared.csproj": {
+                "projectPath": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateApp\\ChocolateApp.Shared\\ChocolateApp.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "IdentityModel": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateApp\\ChocolateApp.Shared\\ChocolateApp.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateApp\\ChocolateApp.Shared\\ChocolateApp.Shared.csproj",
+        "projectName": "ChocolateApp.Shared",
+        "projectPath": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateApp\\ChocolateApp.Shared\\ChocolateApp.Shared.csproj",
+        "packagesPath": "C:\\Users\\umutt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateApp\\ChocolateApp.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\umutt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

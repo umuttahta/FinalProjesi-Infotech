@@ -1,0 +1,37 @@
+﻿<nav class="custom-navbar navbar navbar navbar-expand-md navbar-dark bg-dark" aria-label="Furni navigation bar">
+    <div class="container">
+        <a class="navbar-brand" href="index.html">ChocolateApp<span>.</span></a>
+
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsFurni" aria-controls="navbarsFurni" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarsFurni">
+            <ul class="custom-navbar-nav navbar-nav ms-auto mb-2 mb-md-0">
+                <li class="nav-item @(ViewContext.RouteData.Values["controller"]?.ToString() == "Home" ? "active" : "")">
+                    <a asp-controller="Home" asp-action="Index" class="nav-link">Home</a>
+                </li>
+                <li class="nav-item @(ViewContext.RouteData.Values["controller"]?.ToString() == "Shop" ? "active" : "")">
+                    <a asp-controller="Shop" asp-action="Index" class="nav-link">Shop</a>
+                </li>
+                <li class="nav-item @(ViewContext.RouteData.Values["controller"]?.ToString() == "About" ? "active" : "")">
+                    <a asp-controller="About" asp-action="Index" class="nav-link">About us</a>
+                </li>
+                <li class="nav-item @(ViewContext.RouteData.Values["controller"]?.ToString() == "Services" ? "active" : "")">
+                    <a asp-controller="Services" asp-action="Index" class="nav-link">Services</a>
+                </li>
+                <li class="nav-item @(ViewContext.RouteData.Values["controller"]?.ToString() == "Blog" ? "active" : "")">
+                    <a asp-controller="Blog" asp-action="Index" class="nav-link">Blog</a>
+                </li>
+                <li class="nav-item @(ViewContext.RouteData.Values["controller"]?.ToString() == "Contact" ? "active" : "")">
+                    <a asp-controller="Contact" asp-action="Index" class="nav-link">Contact us</a>
+                </li>
+            </ul>
+
+            <ul class="custom-navbar-cta navbar-nav mb-2 mb-md-0 ms-5">
+                <li><a class="nav-link" href="#"><img src="ui/images/user.svg"></a></li>
+                <li><a class="nav-link" href="cart.html"><img src="ui/images/cart.svg"></a></li>
+            </ul>
+        </div>
+    </div>
+</nav>

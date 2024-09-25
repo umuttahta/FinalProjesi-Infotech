@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateAppClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B49A6F7B-2923-4BBC-8BBE-DE1F9E3426D7}|ChocolateAppClient.csproj|C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateAppClient\\services\\chocolateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49A6F7B-2923-4BBC-8BBE-DE1F9E3426D7}|ChocolateAppClient.csproj|solutionrelative:services\\chocolateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49A6F7B-2923-4BBC-8BBE-DE1F9E3426D7}|ChocolateAppClient.csproj|c:\\users\\umutt\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi 2\\chocolateappclient\\services\\chocolateservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49A6F7B-2923-4BBC-8BBE-DE1F9E3426D7}|ChocolateAppClient.csproj|solutionrelative:services\\chocolateservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49A6F7B-2923-4BBC-8BBE-DE1F9E3426D7}|ChocolateAppClient.csproj|C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateAppClient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49A6F7B-2923-4BBC-8BBE-DE1F9E3426D7}|ChocolateAppClient.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778A94E9-31FD-49C8-A883-1B3A48CA7F2C}|..\\ChocolateApp\\ChocolateApp.Service\\ChocolateApp.Service.csproj|c:\\users\\umutt\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi 2\\chocolateapp\\chocolateapp.service\\abstract\\ichocolateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49A6F7B-2923-4BBC-8BBE-DE1F9E3426D7}|ChocolateAppClient.csproj|C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateAppClient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49A6F7B-2923-4BBC-8BBE-DE1F9E3426D7}|ChocolateAppClient.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778A94E9-31FD-49C8-A883-1B3A48CA7F2C}|..\\ChocolateApp\\ChocolateApp.Service\\ChocolateApp.Service.csproj|c:\\users\\umutt\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi 2\\chocolateapp\\chocolateapp.service\\concrete\\chocolateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2BA8-27AA-4166-91EF-8A07D62C5ADD}|..\\ChocolateApp\\ChocolateApp.Shared\\ChocolateApp.Shared.csproj|c:\\users\\umutt\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi 2\\chocolateapp\\chocolateapp.shared\\responsedtos\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49A6F7B-2923-4BBC-8BBE-DE1F9E3426D7}|ChocolateAppClient.csproj|C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateAppClient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B49A6F7B-2923-4BBC-8BBE-DE1F9E3426D7}|ChocolateAppClient.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778A94E9-31FD-49C8-A883-1B3A48CA7F2C}|..\\ChocolateApp\\ChocolateApp.Service\\ChocolateApp.Service.csproj|c:\\users\\umutt\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi 2\\chocolateapp\\chocolateapp.service\\concrete\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC9C8AD-D280-479E-A9FD-F4AD83B8CCE3}|..\\ChocolateApp\\ChocolateApp.Data\\ChocolateApp.Data.csproj|c:\\users\\umutt\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi 2\\chocolateapp\\chocolateapp.data\\chocolateapp.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49A6F7B-2923-4BBC-8BBE-DE1F9E3426D7}|ChocolateAppClient.csproj|C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateAppClient\\controllers\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49A6F7B-2923-4BBC-8BBE-DE1F9E3426D7}|ChocolateAppClient.csproj|solutionrelative:controllers\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChocolateServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateAppClient\\Services\\ChocolateServiceBase.cs",
+              "RelativeDocumentMoniker": "Services\\ChocolateServiceBase.cs",
+              "ToolTip": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateAppClient\\Services\\ChocolateServiceBase.cs*",
+              "RelativeToolTip": "Services\\ChocolateServiceBase.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T02:35:45.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateApp\\ChocolateApp.Shared\\ResponseDtos\\Response.cs",
+              "RelativeDocumentMoniker": "..\\ChocolateApp\\ChocolateApp.Shared\\ResponseDtos\\Response.cs",
+              "ToolTip": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateApp\\ChocolateApp.Shared\\ResponseDtos\\Response.cs",
+              "RelativeToolTip": "..\\ChocolateApp\\ChocolateApp.Shared\\ResponseDtos\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T02:26:20.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateApp\\ChocolateApp.Service\\Concrete\\CategoryService.cs",
+              "RelativeDocumentMoniker": "..\\ChocolateApp\\ChocolateApp.Service\\Concrete\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateApp\\ChocolateApp.Service\\Concrete\\CategoryService.cs",
+              "RelativeToolTip": "..\\ChocolateApp\\ChocolateApp.Service\\Concrete\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T02:19:36.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateAppClient\\Controllers\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateAppClient\\Controllers\\HomeViewModel.cs",
+              "RelativeToolTip": "Controllers\\HomeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T02:12:55.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChocolateService.cs",
+              "DocumentMoniker": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateApp\\ChocolateApp.Service\\Concrete\\ChocolateService.cs",
+              "RelativeDocumentMoniker": "..\\ChocolateApp\\ChocolateApp.Service\\Concrete\\ChocolateService.cs",
+              "ToolTip": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateApp\\ChocolateApp.Service\\Concrete\\ChocolateService.cs",
+              "RelativeToolTip": "..\\ChocolateApp\\ChocolateApp.Service\\Concrete\\ChocolateService.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwE4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T02:12:45.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateAppClient\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateAppClient\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T02:10:55.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateAppClient\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateAppClient\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T02:10:15.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IChocolateService.cs",
+              "DocumentMoniker": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateApp\\ChocolateApp.Service\\Abstract\\IChocolateService.cs",
+              "RelativeDocumentMoniker": "..\\ChocolateApp\\ChocolateApp.Service\\Abstract\\IChocolateService.cs",
+              "ToolTip": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateApp\\ChocolateApp.Service\\Abstract\\IChocolateService.cs",
+              "RelativeToolTip": "..\\ChocolateApp\\ChocolateApp.Service\\Abstract\\IChocolateService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAvwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T02:03:55.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateAppClient\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateAppClient\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T00:48:21.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChocolateService.cs",
+              "DocumentMoniker": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateAppClient\\Services\\ChocolateService.cs",
+              "RelativeDocumentMoniker": "Services\\ChocolateService.cs",
+              "ToolTip": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateAppClient\\Services\\ChocolateService.cs",
+              "RelativeToolTip": "Services\\ChocolateService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T00:47:20.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChocolateApp.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateApp\\ChocolateApp.Data\\ChocolateApp.Data.csproj",
+              "RelativeDocumentMoniker": "..\\ChocolateApp\\ChocolateApp.Data\\ChocolateApp.Data.csproj",
+              "ToolTip": "C:\\Users\\umutt\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi 2\\ChocolateApp\\ChocolateApp.Data\\ChocolateApp.Data.csproj",
+              "RelativeToolTip": "..\\ChocolateApp\\ChocolateApp.Data\\ChocolateApp.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-18T02:20:58.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateApp\\ChocolateApp.Api\\wwwroot\\images\\Chocolates\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\Chocolates\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateApp\\ChocolateApp.Api\\wwwroot\\images\\Chocolates\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\Chocolates\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateApp\\ChocolateApp.Api\\wwwroot\\images\\Chocolates\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\Chocolates\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateApp\\ChocolateApp.Api\\wwwroot\\images\\Chocolates\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\Chocolates\\4.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ChocolateApp.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ChocolateApp.Api.props",
+      "PackagePath": "build\\ChocolateApp.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ChocolateApp.Api.props",
+      "PackagePath": "buildMultiTargeting\\ChocolateApp.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ChocolateApp.Api.props",
+      "PackagePath": "buildTransitive\\ChocolateApp.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

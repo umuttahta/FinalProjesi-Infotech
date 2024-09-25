@@ -1,0 +1,589 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ChocolateAppClient.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ChocolateAppClient.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\about\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\about\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\about\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\about\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\chocobanner.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chocobanner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\chocolate2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\chocolate2.png"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\close-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\close-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\logos\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\logos\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\logos\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\logos\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\logos\\facebook.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\logos\\google.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\google.svg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\logos\\ibm.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\ibm.svg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\logos\\microsoft.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\microsoft.svg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\map-image.png",
+      "PackagePath": "staticwebassets\\assets\\img\\map-image.png"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\navbar-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\navbar-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\product\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\product\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\product\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\product\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\product\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\product\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\team\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\team\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\team\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\team\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\team\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\team\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\assets\\img\\team\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\ui\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\css\\style.css",
+      "PackagePath": "staticwebassets\\ui\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\css\\tiny-slider.css",
+      "PackagePath": "staticwebassets\\ui\\css\\tiny-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\121.jfif",
+      "PackagePath": "staticwebassets\\ui\\images\\121.jfif"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\3.png",
+      "PackagePath": "staticwebassets\\ui\\images\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\Healthy.jpeg",
+      "PackagePath": "staticwebassets\\ui\\images\\Healthy.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\bag.svg",
+      "PackagePath": "staticwebassets\\ui\\images\\bag.svg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\bowl-2.png",
+      "PackagePath": "staticwebassets\\ui\\images\\bowl-2.png"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\bowl-3.png",
+      "PackagePath": "staticwebassets\\ui\\images\\bowl-3.png"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\cart.svg",
+      "PackagePath": "staticwebassets\\ui\\images\\cart.svg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\couch.png",
+      "PackagePath": "staticwebassets\\ui\\images\\couch.png"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\cross.svg",
+      "PackagePath": "staticwebassets\\ui\\images\\cross.svg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\dots-green.svg",
+      "PackagePath": "staticwebassets\\ui\\images\\dots-green.svg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\dots-light.svg",
+      "PackagePath": "staticwebassets\\ui\\images\\dots-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\dots-yellow.svg",
+      "PackagePath": "staticwebassets\\ui\\images\\dots-yellow.svg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\envelope-outline.svg",
+      "PackagePath": "staticwebassets\\ui\\images\\envelope-outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\giotto.png",
+      "PackagePath": "staticwebassets\\ui\\images\\giotto.png"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\giotto2.png",
+      "PackagePath": "staticwebassets\\ui\\images\\giotto2.png"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\giotto3.png",
+      "PackagePath": "staticwebassets\\ui\\images\\giotto3.png"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\header.png",
+      "PackagePath": "staticwebassets\\ui\\images\\header.png"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\hershey.png",
+      "PackagePath": "staticwebassets\\ui\\images\\hershey.png"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\img-cho.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\img-cho.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\img-cho2.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\img-cho2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\img-cho3.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\img-cho3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\img-grid-1.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\img-grid-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\img-grid-2.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\img-grid-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\img-grid-3.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\img-grid-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\person-1.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\person-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\person-1.png",
+      "PackagePath": "staticwebassets\\ui\\images\\person-1.png"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\person_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\person_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\person_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\person_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\post-1.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\post-2.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\post-3.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\product-1.png",
+      "PackagePath": "staticwebassets\\ui\\images\\product-1.png"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\product-2.png",
+      "PackagePath": "staticwebassets\\ui\\images\\product-2.png"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\product-3.png",
+      "PackagePath": "staticwebassets\\ui\\images\\product-3.png"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\return.svg",
+      "PackagePath": "staticwebassets\\ui\\images\\return.svg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\sofa.png",
+      "PackagePath": "staticwebassets\\ui\\images\\sofa.png"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\support.svg",
+      "PackagePath": "staticwebassets\\ui\\images\\support.svg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\truck.svg",
+      "PackagePath": "staticwebassets\\ui\\images\\truck.svg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\user.svg",
+      "PackagePath": "staticwebassets\\ui\\images\\user.svg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\images\\why-choose-us-img.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\why-choose-us-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\ui\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\js\\custom.js",
+      "PackagePath": "staticwebassets\\ui\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\umutt\\OneDrive\\Masaüstü\\Bprojesi\\BP\\FinalProject\\ChocolateAppClient\\wwwroot\\ui\\js\\tiny-slider.js",
+      "PackagePath": "staticwebassets\\ui\\js\\tiny-slider.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ChocolateAppClient.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ChocolateAppClient.props",
+      "PackagePath": "build\\ChocolateAppClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ChocolateAppClient.props",
+      "PackagePath": "buildMultiTargeting\\ChocolateAppClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ChocolateAppClient.props",
+      "PackagePath": "buildTransitive\\ChocolateAppClient.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,18 @@
+﻿@model List<ChocolateViewModel>
+
+<div class="product-section">
+    <div class="container">
+        <div class="row">
+            @foreach (var chocolate in Model)
+            {
+                <div class="col-12 col-md-4 col-lg-3 mb-5 mb-md-0">
+                    <a class="product-item" href="cart.html">
+                        <img src="http://localhost:3535/@chocolate.ImageUrl" class="img-fluid product-thumbnail" />
+                        <h3 class="product-title">@chocolate.Name</h3>
+                        <strong class="product-price">@($"{chocolate.Price:C2}")</strong>
+                    </a>
+                </div>
+            }
+        </div>
+    </div>
+</div>
